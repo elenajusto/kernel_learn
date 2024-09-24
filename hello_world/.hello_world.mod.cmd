@@ -1,0 +1,1 @@
+savedcmd_/home/elena/repos/kernel_learn/hello_world/hello_world.mod := printf '%s\n'   hello_world.o | awk '!x[$$0]++ { print("/home/elena/repos/kernel_learn/hello_world/"$$0) }' > /home/elena/repos/kernel_learn/hello_world/hello_world.mod

@@ -1,0 +1,1 @@
+savedcmd_/home/elena/repos/kernel_learn/hello_world/hello_world.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/elena/repos/kernel_learn/hello_world/hello_world.ko /home/elena/repos/kernel_learn/hello_world/hello_world.o /home/elena/repos/kernel_learn/hello_world/hello_world.mod.o

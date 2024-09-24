@@ -1,0 +1,1 @@
+savedcmd_/home/elena/repos/kernel_learn/hello_world/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/elena/repos/kernel_learn/hello_world/Module.symvers -T /home/elena/repos/kernel_learn/hello_world/modules.order -i Module.symvers -e 
